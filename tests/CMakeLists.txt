@@ -4,7 +4,6 @@ project(SearchEngineTests)
 
 include(FetchContent)
 
-# GoogleTest
 FetchContent_Declare(
         googletest
         URL https://github.com/google/googletest/archive/refs/tags/v1.17.0.zip
